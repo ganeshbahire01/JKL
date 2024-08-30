@@ -1,0 +1,363 @@
+{
+  "blogPosts": [
+    {
+      "image": {
+        "src": "/blog1.png",
+        "alt": "Blog 1 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/blog2.png",
+        "alt": "Blog 2 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/blog3.png",
+        "alt": "Blog 3 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/blog4.png",
+        "alt": "Blog 4 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/blog5.png",
+        "alt": "Blog 5 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/blog6.png",
+        "alt": "Blog 6 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/blog7.png",
+        "alt": "Blog 7 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/blog8.png",
+        "alt": "Blog 8 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/blog9.png",
+        "alt": "Blog 9 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },{
+      "image": {
+        "src": "/blog4.png",
+        "alt": "Blog 4 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/blog5.png",
+        "alt": "Blog 5 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/blog6.png",
+        "alt": "Blog 6 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/blog7.png",
+        "alt": "Blog 7 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/blog8.png",
+        "alt": "Blog 8 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/blog9.png",
+        "alt": "Blog 9 Image"
+      },
+      "category": "Design",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "author": {
+        "name": "Olivia Rhye",
+        "image": "/profile.png"
+      },
+      "date": "20 Jan 2022",
+      "badge": [
+        {
+          "text": "Design",
+          "theme": "green"
+        },
+        {
+          "text": "Research",
+          "theme": "red"
+        }
+      ]
+    }
+  ]
+}
