@@ -14,7 +14,13 @@ const LargeBlogCard = ({
 }: BlogPost) => {
   return (
     <div className="px-6 pt-6 shadow-2xl marker:w-1/2 bg-white">
-      <Image src={image.src} alt={image.alt} width={537} height={240} />
+      <Image
+        src={image.src}
+        alt={image.alt}
+        width={537}
+        height={240}
+        className="h-[222px] md:h-[240px]"
+      />
       <div className="py-8">
         <div className="font-inter text-sm font-semibold leading-5 text-left text-[#6941C6]">
           {category}
